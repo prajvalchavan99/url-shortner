@@ -1,0 +1,14 @@
+.retrieve-url {
+  max-width: 500px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: linear-gradient(135deg, #a777e3, #6e8efb);
+  border-radius: 10px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+  color: white;
+}
+
+.retrieve-url h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
